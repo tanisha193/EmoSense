@@ -1,0 +1,7 @@
+pillow
+numpy<2.0.0
+opencv-python
+tensorflow<2.12.0
+pandas
+matplotlib
+
